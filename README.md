@@ -14,6 +14,16 @@ Predict whether an individual's annual income exceeds `$50K` (`>50K` -> `1`, `<=
 `https://github.com/MukulBitsPilani/IncomePrediction` *(contains training/evaluation script, visualizations, and README)*
 
 
+
+## Execution Instructions
+1. Open Jupyter Notbook
+2. Make sure needed packages are installed.
+3. Restart kernel and run all cells top-to-bottom
+4. Feel free to play with model parameters like For KNeighborsClassifier you can change the value of n_neighbors, For LogisticRegression you can play with max_iter and without random_state.
+
+
+   
+
 ## Models Used & Evaluation
 <img width="779" height="148" alt="image" src="https://github.com/user-attachments/assets/cfbb383a-9191-459c-8223-55f69f7ef221" />
 
